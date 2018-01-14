@@ -1,0 +1,41 @@
+#Resource: 
+Main Hall
+Luncheon
+12/20/2015,12:00
+12/20/2015,13:00
+Golden Key Society
+To celebrate their outstanding alumni.
+Google Speech
+12/19/2015,15:00
+12/19/2015,16:30
+Madison Tech
+CEO of GoogleMadison will speak on the latest and greatest from GoogleMadison.  Projector needed.
+Homecoming Dance
+12/25/2015,19:15
+12/25/2015,21:45
+BAM
+Ballroom dances all night.  Will need access to sound system. 
+#Resource: 
+Fork Lift
+Moving Office
+12/26/2015,10:00
+12/28/2015,17:30
+Multicultural Centre
+Moving all office furniture and supplies.
+Being Repaired
+12/20/2015,09:00
+12/24/2015,20:00
+Mickey's Shop
+n/a
+#Resource: 
+Adventure Centre
+Happy Hour
+12/20/2015,12:00
+12/20/2015,13:00
+Madtown Singers
+Combination of food and entertainment.  They need a full set-up.
+Poetry Hour
+12/19/2015,15:00
+12/19/2015,16:30
+Society of Literary Arts of UW-Madison
+Private event.  No loud noises during this event.

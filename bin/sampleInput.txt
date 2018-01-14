@@ -1,0 +1,30 @@
+v r
+v e
+v t Main Hall
+v t Fork Lift
+v o Madison Tech
+v o BAM
+v n 12/19/2015,15:40 12/19/2015,16:10
+v s 12/19/2015,15:40 12/19/2015,16:10 Fork Lift
+v s 12/19/2015,15:40 12/19/2015,16:10 Adventure Centre
+v s 12/19/2015,15:40 12/19/2015,16:10 Main Hall
+a r Paintball Room
+v r
+a e Paintball Room
+12/31/2015,23:00 01/01/2016,02:00 New-Year's Eve party
+Madison Tech
+Paintball party.  Food will be provided outside.  Blacklights needed.
+v t Paintball Room
+a e Main Hall
+01/01/2016,09:00 01/01/2016,11:00 New Year's Kickoff with Chancellor
+UW-Madison office of the Dean of Students
+Long speech with few refreshments.
+v t Main Hall
+v o Madison Tech
+d e 12/20/2015,12:00 Main Hal
+d e 12/20/2015,12:00 Main Hall
+d r Main Hall
+v r
+d r Paintball Room
+v e
+q
